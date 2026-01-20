@@ -1,5 +1,4 @@
-<img width="405" height="154" alt="image" src="https://github.com/user-attachments/assets/a51f99a9-6c6d-4d95-853b-cf63bff5b52a" /># Linux_Assignment
-
+# Linux_Assignment
 ## 1. Configure smtp in localhost.
 ### Step 1: Install Postfix & Mail Utilities.
 <img width="771" height="49" alt="image" src="https://github.com/user-attachments/assets/b1dc88c8-fb32-462c-8b64-90d563dc800a" />
@@ -48,10 +47,10 @@ sudo service showtime status -> It should show status.
 
 ### Step 10: A showtime systemd service was created to write the current time every minute into a file in the user’s home directory and is controlled using start, stop, and status commands.
 
+<img width="813" height="467" alt="image" src="https://github.com/user-attachments/assets/08057dea-64a9-4d21-ab0f-6bd1962b42dd" />
 
 <img width="405" height="154" alt="image" src="https://github.com/user-attachments/assets/8dd599a3-cbf0-4384-bd0f-67d499cb483d" />
 
-<img width="813" height="467" alt="image" src="https://github.com/user-attachments/assets/08057dea-64a9-4d21-ab0f-6bd1962b42dd" />
-
 <img width="418" height="255" alt="image" src="https://github.com/user-attachments/assets/b246a8a0-b1da-4a59-95cc-9bdf1f75f945" />
+
 
